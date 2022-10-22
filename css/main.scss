@@ -184,9 +184,10 @@ h2::before {
 
     .arrows {
         display: block;
-        width: 70px;
+        width: 100px;
         cursor: pointer;
         margin: .5em;
+        opacity: .5;
     }
     .right {
         transform: rotateZ(180deg);
