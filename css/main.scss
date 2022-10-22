@@ -184,13 +184,14 @@ h2::before {
 
     .arrows {
         display: block;
-        width: 40px;
+        width: 70px;
         cursor: pointer;
         margin: .5em;
     }
     .right {
         transform: rotateZ(180deg);
     }
+
     ul.carousal {
         display: flex;
         margin-bottom: 0;
